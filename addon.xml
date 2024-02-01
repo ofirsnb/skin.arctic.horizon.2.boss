@@ -1,4 +1,4 @@
-<addon id="skin.arctic.horizon.2" name="Arctic Horizon 2" provider-name="jurialmunkey" version="0.8.27">
+<addon id="skin.arctic.horizon.2.boss" name="Arctic Horizon 2 Boss" provider-name="ofirsnb" version="0.8.27">
     <requires>
         <import addon="xbmc.gui" version="5.15.0" />
         <import addon="script.skinshortcuts" version="0.4.0" />
@@ -14,7 +14,7 @@
     </extension>
     <extension point="xbmc.addon.metadata">
         <summary lang="en">Minimal. Classic. Gradients. Widgets.</summary>
-        <description lang="en">Arctic Horizon 2</description>
+        <description lang="en">Arctic Horizon 2 Boss</description>
         <platform>all</platform>
         <license>Creative Commons Attribution Non-Commercial Share-Alike 4.0</license>
         <forum />
