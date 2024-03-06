@@ -669,7 +669,7 @@ msgstr "קיר פוסטרים גדול"
 #: /1080i/script-upnext-upnext.xml
 msgctxt "#31129"
 msgid "Up next in"
-msgstr "יימשך פנימה"
+msgstr "פרק הבא בעוד"
 
 #: /1080i/script-upnext-upnext.xml
 msgctxt "#31130"
@@ -1413,7 +1413,7 @@ msgstr ""
 #| msgid "Ends at"
 msgctxt "#31267"
 msgid "Ends"
-msgstr ""
+msgstr "מסתיים ב"
 
 #: /1080i/SkinSettings.xml
 #| msgctxt "#31080"
