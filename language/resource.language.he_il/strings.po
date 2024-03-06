@@ -1317,7 +1317,12 @@ msgstr ""
 #: /1080i/Custom_1198_Startup.xml
 msgctxt "#31249"
 msgid "Waiting for PVR"
-msgstr ""
+msgstr "ממתין לטלוויזיה"
+
+#: /1080i/Custom_1198_Startup.xml
+msgctxt "#31358"
+msgid "Waiting for plugins"
+msgstr "ממתין לתוספים"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31250"
