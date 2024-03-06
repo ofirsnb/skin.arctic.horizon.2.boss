@@ -674,25 +674,25 @@
                 <height>96</height>
                 <centerleft>50%</centerleft>
                 <aspectratio>keep</aspectratio>
-                <texture colordiffuse="$VAR[ColorHighlight]">special://skin/extras/icons/kodi.png</texture>
+<!--                <texture colordiffuse="$VAR[ColorHighlight]">special://skin/extras/icons/kodi.png</texture>-->
             </control>
             <control type="label">
                 <height>32</height>
                 <textcolor>main_fg_100</textcolor>
-                <label>KODI</label>
+<!--                <label>KODI</label>-->
                 <font>font_logo_large</font>
                 <align>center</align>
             </control>
         </control>
-        <control type="label">
-            <height>80</height>
-            <centertop>49%</centertop>
-            <aligny>center</aligny>
-            <align>center</align>
-            <font>font_info_black</font>
-            <textcolor>$VAR[ColorHighlight]</textcolor>
-            <label>[COLOR=main_logo]Arctic[/COLOR] Horizon 2</label>
-        </control>
+<!--        <control type="label">-->
+<!--            <height>80</height>-->
+<!--            <centertop>49%</centertop>-->
+<!--            <aligny>center</aligny>-->
+<!--            <align>center</align>-->
+<!--            <font>font_info_black</font>-->
+<!--            <textcolor>$VAR[ColorHighlight]</textcolor>-->
+<!--            <label>[COLOR=main_logo]OSNB[/COLOR] Kodi</label>-->
+<!--        </control>-->
         <control type="group">
             <bottom>80</bottom>
             <height>140</height>
